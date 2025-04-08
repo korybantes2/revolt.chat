@@ -119,7 +119,7 @@ If you have a cool project/art/thing related to Revolt that you've made or other
 
 ![ms paint drawing by doru](/content/blog/month-in-revolt-july-2024/community-1.png)
 
-###### 2 second drawing by Doru, [permalink](https://app.revolt.chat/server/01F7ZSBSFHQ8TA81725KQCSDDP/channel/01HXKSABKSDC3WMR1AVC67TEN1/01J0P2EQP5C9W16PXNZ24W1SKQ)
+###### 2 second drawing by Doru, [permalink](https://app.read-me.pro/server/01F7ZSBSFHQ8TA81725KQCSDDP/channel/01HXKSABKSDC3WMR1AVC67TEN1/01J0P2EQP5C9W16PXNZ24W1SKQ)
 
 # The Loop
 

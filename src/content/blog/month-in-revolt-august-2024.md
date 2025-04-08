@@ -152,27 +152,27 @@ If you have a cool project/art/thing related to Revolt that you've made or other
 
 ![Message by Andre_601: "Since the latest blog post asked about it... Here is art I made like over a year ago... My attempt at a Revolt Logo..." with image of Revolt logo with a slice through it.](/content/blog/month-in-revolt-august-2024/community-1.png)
 
-###### Andre_601's Revolt logo idea, [permalink](https://app.revolt.chat/server/01F7ZSBSFHQ8TA81725KQCSDDP/channel/01HXKSABKSDC3WMR1AVC67TEN1/01J42PF103WZ0WYB555P68287V)
+###### Andre_601's Revolt logo idea, [permalink](https://app.read-me.pro/server/01F7ZSBSFHQ8TA81725KQCSDDP/channel/01HXKSABKSDC3WMR1AVC67TEN1/01J42PF103WZ0WYB555P68287V)
 
 ![Message by Taroovala: "I use Arch Revolt btw (forming the legs to make an actual arch made it look weird so I went with this version instead)" with image of Revolt logo with 'Arch Linux'-like arches embedded into it and red-blue colour variations.](/content/blog/month-in-revolt-august-2024/community-2.png)
 
-###### Taroovala's Revolt-Arch logo mashup, [permalink](https://app.revolt.chat/server/01F7ZSBSFHQ8TA81725KQCSDDP/channel/01HXKSABKSDC3WMR1AVC67TEN1/01J6AR34D176HMHRMM1JMVNMZK)
+###### Taroovala's Revolt-Arch logo mashup, [permalink](https://app.read-me.pro/server/01F7ZSBSFHQ8TA81725KQCSDDP/channel/01HXKSABKSDC3WMR1AVC67TEN1/01J6AR34D176HMHRMM1JMVNMZK)
 
 ![Message by Taroovala: "Swapped the brandings without using any fonts to confuse people even more" with image of "Revolt" text in Revolut brand style and "Revolut" text in Revolt brand style.](/content/blog/month-in-revolt-august-2024/community-3.png)
 
-###### Taroovala's Revolt-Revolut branding mashup, [permalink](https://app.revolt.chat/server/01F7ZSBSFHQ8TA81725KQCSDDP/channel/01HXKSABKSDC3WMR1AVC67TEN1/01J6D84CXQ15V4DDWW42PEDSTN)
+###### Taroovala's Revolt-Revolut branding mashup, [permalink](https://app.read-me.pro/server/01F7ZSBSFHQ8TA81725KQCSDDP/channel/01HXKSABKSDC3WMR1AVC67TEN1/01J6D84CXQ15V4DDWW42PEDSTN)
 
 <video src="/content/blog/month-in-revolt-august-2024/R.mp4" style="width:50%" controls></video>
 
-###### ive watched this video like 100 times over the past 2 months, [permalink](https://app.revolt.chat/server/01F7ZSBSFHQ8TA81725KQCSDDP/channel/01HXKSABKSDC3WMR1AVC67TEN1/01J42QMQAG0M74F5FZASR59JRC)
+###### ive watched this video like 100 times over the past 2 months, [permalink](https://app.read-me.pro/server/01F7ZSBSFHQ8TA81725KQCSDDP/channel/01HXKSABKSDC3WMR1AVC67TEN1/01J42QMQAG0M74F5FZASR59JRC)
 
 ![Message by Taroovala: "My best redesign of the Revolt logo. This one is in the style of Artix Linux" with image of Revolt logo in style of Artix logo](/content/blog/month-in-revolt-august-2024/community-4.png)
 
-###### Taroovala's Revolt-Artix branding mashup, [permalink](https://app.revolt.chat/server/01F7ZSBSFHQ8TA81725KQCSDDP/channel/01HXKSABKSDC3WMR1AVC67TEN1/01J6M1EDEM5JF4FPMMX3C1VA2F)
+###### Taroovala's Revolt-Artix branding mashup, [permalink](https://app.read-me.pro/server/01F7ZSBSFHQ8TA81725KQCSDDP/channel/01HXKSABKSDC3WMR1AVC67TEN1/01J6M1EDEM5JF4FPMMX3C1VA2F)
 
 ![Message by Delta: "49,196,159 microseconds to make", "yes i know it's a masterpiece", "don't ask me to teach you how to become a great artist like me, i will not be responding", with image of R in math style](/content/blog/month-in-revolt-august-2024/community-5.png)
 
-###### Delta's Revolt logo, [permalink](https://app.revolt.chat/server/01F7ZSBSFHQ8TA81725KQCSDDP/channel/01HXKSABKSDC3WMR1AVC67TEN1/01J6M8753Q86R6KKT5B6CXWCEZ)
+###### Delta's Revolt logo, [permalink](https://app.read-me.pro/server/01F7ZSBSFHQ8TA81725KQCSDDP/channel/01HXKSABKSDC3WMR1AVC67TEN1/01J6M8753Q86R6KKT5B6CXWCEZ)
 
 # The Loop
 
